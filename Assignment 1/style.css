@@ -1,0 +1,44 @@
+body {
+  font-size: 16px;
+  line-height: 24px;
+  font-style: normal;
+  font-weight: normal;
+  font-family: 'Montserrat', sans-serif;
+  margin: 83px 138px;
+}
+
+h1, h2 {
+  font-family: 'Oswald', sans-serif;
+  font-style: normal;
+}
+
+h1 {
+  font-size: 100px;
+  line-height: 115px;
+}
+
+h2 {
+  font-size: 30px;
+  padding: 10px;
+}
+
+h3 {
+  font-size: 14px;
+  color: #808285;
+}
+
+img {
+  float: right;
+  width: 409px;
+  height: 306px;
+  padding-left: 30px;
+}
+
+div {
+  height: 368px;
+  padding: 0;
+}
+
+strong, em {
+  color: #EAAB00;
+}

@@ -1,0 +1,82 @@
+body {
+  font-size: 16px;
+  line-height: 24px;
+  font-family: 'Lato', sans-serif;
+  margin: 83px 138px;
+  background-color: #3DA193;
+  color: #ffff;
+}
+
+h1 {
+  font-Size: 68px;
+  font-Family: 'Oswald', Sans-Serif;
+  color: #006960;
+}
+
+h2 {
+  font-family: 'Lato', sans-serif;
+}
+
+.container {
+  background-color: #006960;
+  margin-top: 40px;
+  padding: 20px 50px 30px 50px;
+}
+
+#draggable {
+  width: 100px;
+  height: 100px;
+  padding: 0.5em;
+  margin: 10px 10px 10px 0;
+}
+
+#resizable {
+  width: 150px;
+  height: 150px;
+  padding: 0.5em;
+}
+
+#resizable h3 {
+  text-align: center;
+  margin: 0;
+}
+
+#feedback {
+  font-size: 1.4em;
+}
+
+#selectable .ui-selecting {
+  background: #FECA40;
+}
+
+#selectable .ui-selected {
+  background: #F39814;
+  color: white;
+}
+
+#selectable {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 60%;
+}
+
+#selectable li {
+  margin: 3px;
+  padding: 0.4em;
+  font-size: 1.4em;
+  height: 18px;
+}
+
+fieldset {
+  border: 0;
+}
+
+label {
+  display: block;
+  margin: 30px 0 0 0;
+}
+
+.overflow {
+  height: 200px;
+}
